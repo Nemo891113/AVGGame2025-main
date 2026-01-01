@@ -5530,9 +5530,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.09283789
+    x: 0.00005548204
     y: 0
-    width: 0.8143242
+    width: 0.999889
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -5853,7 +5853,7 @@ MonoBehaviour:
   m_fontSizeMin: 0
   m_fontSizeMax: 0
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -15948,7 +15948,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bdba5413b1c0be341b14ac00fda5765f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2154c5a4d555b24bb57475d008b70eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21766,7 +21766,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bdba5413b1c0be341b14ac00fda5765f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2154c5a4d555b24bb57475d008b70eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -25332,7 +25332,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -26043,7 +26043,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -26596,7 +26596,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -27786,9 +27786,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.09283789
+    x: 0.00005548204
     y: 0
-    width: 0.8143242
+    width: 0.999889
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -29331,7 +29331,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bdba5413b1c0be341b14ac00fda5765f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2154c5a4d555b24bb57475d008b70eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30597,7 +30597,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 063e2b34c1e216f499ec3b1154aee041, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c85d913ded31ffc40ba5e40ef9a6c84f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30837,7 +30837,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bdba5413b1c0be341b14ac00fda5765f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2154c5a4d555b24bb57475d008b70eb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
